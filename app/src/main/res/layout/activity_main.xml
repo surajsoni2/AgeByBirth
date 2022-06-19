@@ -27,11 +27,11 @@
 
     <Button
         android:id="@+id/btnDate"
-        android:layout_width="252dp"
-        android:layout_height="49dp"
+        android:layout_width="233dp"
+        android:layout_height="53dp"
         android:layout_marginBottom="340dp"
-        android:background="@android:drawable/alert_dark_frame"
         android:text="Select DOB"
+        android:textSize="20sp"
         android:textColor="#E64A19"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
